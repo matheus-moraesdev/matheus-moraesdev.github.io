@@ -126,3 +126,24 @@ a{
     border-radius: 999px;
      gap: 12px;
 }
+
+.rodape{
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #123a63;
+
+    text-align: center;
+}
+
+.rodape address{
+    font-style: normal;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: white;
+}
+
+.rodape p{
+    color: white;
+}
