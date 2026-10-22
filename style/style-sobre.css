@@ -40,5 +40,18 @@
 }
 
 .tabela-conhecimentos thead{
-    background-color: darkcyan;
+    background-color: #bedaff;
+}
+
+.tabela-conhecimentos tfoot{
+     background-color: #d8e8e8;
+}
+
+.secao{
+    margin: 72px 0;
+    padding: 25px;
+
+    background-color: white;
+    border: 1px solid #dbe2ea;
+    border-radius: 8px;
 }
