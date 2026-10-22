@@ -1,0 +1,44 @@
+.tabela-conhecimentos{
+    width: 100%;
+    border: 5px solid #123a63;
+
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.tabela-conhecimentos caption{
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tabela-conhecimentos th,
+.tabela-conhecimentos td{
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left;
+}
+
+.rodape-sobre{
+     margin-top: 40px;
+    padding: 25px;
+    background-color:#d8e8e8;
+    text-align: center;
+}
+
+.rodape-sobre address{
+     font-style: normal
+}
+
+.rodape-sobre a{
+    text-decoration: none;
+    color: #123a63;
+}
+
+.rodape-sobre p{
+    color: #123a63;
+}
+
+.tabela-conhecimentos thead{
+    background-color: darkcyan;
+}

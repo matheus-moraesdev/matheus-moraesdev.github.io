@@ -130,7 +130,7 @@ a{
 .rodape{
     margin-top: 40px;
     padding: 25px;
-    background-color: #123a63;
+    background-color:#d8e8e8;
 
     text-align: center;
 }
@@ -141,6 +141,9 @@ a{
 
 .rodape a{
     text-decoration: none;
-    color
+    color: #123a63;
 }
 
+.rodpae p{
+    color: #123a63;
+}
