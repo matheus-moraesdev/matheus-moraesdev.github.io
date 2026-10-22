@@ -141,9 +141,6 @@ a{
 
 .rodape a{
     text-decoration: none;
-    color: white;
+    color
 }
 
-.rodape p{
-    color: white;
-}
